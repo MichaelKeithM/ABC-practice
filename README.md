@@ -7,3 +7,5 @@ is really teaching English as a Foreign Language.
 This app is used on a computer connected to an overhead projector. When the cursor is hovered over a letter,
 it's opacity changes to 100% and the border/letter are highlighted. The students are to identify the highlighted
 letter.
+
+![alt text](https://github.com/MichaelKeithM/images/blob/master/numbers.jpg)
