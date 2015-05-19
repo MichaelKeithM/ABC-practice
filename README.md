@@ -9,3 +9,4 @@ it's opacity changes to 100% and the border/letter are highlighted. The students
 letter.
 
 
+![alt text](https://github.com/MichaelKeithM/images/blob/master/letters.jpg)
